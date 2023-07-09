@@ -19,3 +19,4 @@ function Entry(props) {
 }
 
 export default Entry;
+
